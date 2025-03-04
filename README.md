@@ -79,6 +79,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [OpenAI solutions with your own data using PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/unlocking-the-power-of-open-ai-and-pgvector-with-azure/ba-p/3828539)
 
+- [OpenAI Multi-tenant RAG app using Neon Serverless Postgres](https://github.com/neondatabase-labs/azure-tenant-ai-chat)
+
 
 ## OpenAI for Python Developers
 
